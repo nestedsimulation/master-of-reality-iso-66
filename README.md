@@ -8,4 +8,4 @@ Poker-style case (for my build I am using the KBDfans.cn Tofu)
 
 Currently experimenting with the QMK Proton-C and handwiring a matrix, although may change to a PCB design as the Tofu will require a base as well as a plate, so may as well use a PCB, as the case designed
 
-![Keyboard design](/master/66_MOR_design.png?raw=true "Keyboard design")
+![alt text](master/66_MOR_design.png?raw=true "Keyboard design")
